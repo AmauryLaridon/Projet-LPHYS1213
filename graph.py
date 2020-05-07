@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # commentaire TEST
-
+# putain yes ca fonctionne sa maman !!!
 
 def RRK4(function, t_0, f_0, t_f, dt):
     import matplotlib.pyplot as mpl
